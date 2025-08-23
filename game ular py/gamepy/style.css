@@ -1,0 +1,23 @@
+body {
+  background: #111;
+  color: white;
+  text-align: center;
+  font-family: monospace;
+}
+
+canvas {
+  background: #222;
+  display: block;
+  margin: 20px auto;
+}
+
+#info {
+  font-size: 16px;
+  margin: 10px;
+}
+
+#question {
+  font-size: 18px;
+  margin: 10px;
+  color: #00ffcc;
+}
