@@ -1,0 +1,3 @@
+<?php
+// hacker jangan mengehack
+?>
